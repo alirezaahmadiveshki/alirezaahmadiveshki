@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alirezaahmadiveshki
-- 👀 I’m interested in computer science and mathematics and a lot of other stuff
-- 🌱 I’m currently learning python as a primary language, mathematics and alghoritms
+- 👀 I’m interested in researching and making stuff, especially in fields such as: computer science, mathematics and alghoritms
+- 🌱 I’m currently learning python as a primary language
 - 📫 How to reach me my email address is alirzeaahmadiveshki@gmail.com
 - ⚡ Fun fact: life is amazing...
 
