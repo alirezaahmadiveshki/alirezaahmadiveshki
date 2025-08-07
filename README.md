@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alirezaahmadiveshki
 - 👀 I’m interested in researching and making stuff, especially in the fields like: computer science, mathematics and alghoritms
-- 🌱 python, C, bash scripting, sysadmins...
 - 📫 my email address is alirzeaahmadiveshki@gmail.com
 
 <!---
